@@ -1,0 +1,100 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav a {
+  color:#ffffff;
+  text-decoration:none;
+  margin:5px 10px;
+  border:1px solid #ffffff;
+  padding:10px;
+}
+
+nav {
+  padding-top: 200px;
+}
+
+nav a:hover {
+  color:#C20095;
+}
+
+nav a:visit {
+  color:#95C200;
+}
+
+header {
+  padding-top: 10px;
+  background-image: url("http://i0.wp.com/flyingthenest.tv/wp-content/uploads/2014/11/8589130422033-whitehaven-beach-australia-wallpaper-hd.jpg");
+  height: 500px;
+}
+
+h1 {
+  color: white;
+}
+
+#climate {
+  color:#ffffff;
+  border-weight:1px;
+  border-style: groove;
+  border-color: #0095C2;
+  padding:10px;
+  text-shadow: 2px 2px #C20095;
+
+  margin:0 auto;
+}
+
+td {
+  color:#ffffff;
+  border:1px solid #0095C2;
+  padding:10px;
+  margin:0 auto;
+  text-align:center;
+
+}
+table {
+  border-collapse: collapse;
+}
+
+img {
+  float: left;
+  margin: 10px;
+  max-width: 400px;
+}
+
+figcaption {
+text-align: left;
+font-size: 8px;
+}
+
+#topten {
+
+  display:inline-block;
+}
+
+
+.climate {
+  clear:both;
+  background-image: url("http://www.skyhdwallpaper.com/wp-content/uploads/2015/01/Paris-Fireworks-2015-HD-Wallpaper-3.jpg");
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+h4 {
+  color: #ffffff;
+ font-size: 30px;
+ font-weight:lighter;
+ text-shadow: 2px 2px #C20095;
+}
+
+footer {
+  background-color: #0095C2;
+  color: white;
+  text-align:center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.no_bullets {
+  list-style-type: none;
+}
